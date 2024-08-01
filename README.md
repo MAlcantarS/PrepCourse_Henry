@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Modulo 2 Henry Mario Alcantar
+Read me test for training 
